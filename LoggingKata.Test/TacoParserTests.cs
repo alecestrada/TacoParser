@@ -21,7 +21,7 @@ namespace LoggingKata.Test
 
         }
 
-       [Theory]
+        [Theory]
         [InlineData("34.073638, -84.677017, Taco Bell Acwort...", -84.677017)]
         public void ShouldParseLongitude(string line, double expected)
         {
