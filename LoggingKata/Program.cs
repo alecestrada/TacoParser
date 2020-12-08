@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * Alec Estrada Taco Bell Parser 
+ */
+
+using System;
 using System.Linq;
 using System.IO;
 using GeoCoordinatePortable;
